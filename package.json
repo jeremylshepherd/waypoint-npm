@@ -1,0 +1,22 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "trying to hard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jeremylshepherd/waypoint-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "jeremylshepherd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremylshepherd/waypoint-npm/issues"
+  },
+  "homepage": "https://github.com/jeremylshepherd/waypoint-npm#readme"
+}
